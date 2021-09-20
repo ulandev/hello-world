@@ -1,2 +1,5 @@
 # hello-world
-firstrepo_learningguide
+
+Hi everyone!
+
+I'm learning the GitHub and practicing it right here!
